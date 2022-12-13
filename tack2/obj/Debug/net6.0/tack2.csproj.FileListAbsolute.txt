@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\bin\Debug\net6.0\tack2.exe
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\bin\Debug\net6.0\tack2.deps.json
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\bin\Debug\net6.0\tack2.runtimeconfig.json
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\bin\Debug\net6.0\tack2.dll
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\bin\Debug\net6.0\tack2.pdb
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\tack2.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\tack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\tack2.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\tack2.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\tack2.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\tack2.dll
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\refint\tack2.dll
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\tack2.pdb
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\tack2.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Мерц\Geek\Lesson7_HW\tack2\obj\Debug\net6.0\ref\tack2.dll

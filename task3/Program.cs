@@ -9,12 +9,14 @@ int m = Convert.ToInt32(Console.ReadLine());
 int n = Convert.ToInt32(Console.ReadLine());
 int [,] array2d = new int[m, n];
 decimal [] averegest = new decimal [n]; 
-Random random = new Random();
+Console.WriteLine("Введите элементы массива в одну строку через запятую");
 for (int i=0; i<m;i++)
 {
+    string text = Console.ReadLine();
+    string[] Array = text.Split(",");
     for (int j=0; j<n; j++)
     {
-        array2d[i,j]=random.Next(0,10);
+        array2d[i,j]=Convert.ToInt32(Array[j]);
         Console.Write(array2d[i,j]+" ");
         averegest[j]=averegest[j]+(Convert.ToDecimal(array2d[i,j])/Convert.ToDecimal(m));
     }

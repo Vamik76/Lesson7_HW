@@ -7,7 +7,8 @@
 // 17 -> такого числа в массиве нет
 Console.WriteLine("Ведите число массива n");
 int n = Convert.ToInt32(Console.ReadLine());
-int [,] array2d = new int[4, 4];
+int m=4,k=4;
+int [,] array2d = new int[m, k];
 int z=0;
 Random random = new Random();
 for (int i=0; i<array2d.GetLength(0);i++)
@@ -23,5 +24,5 @@ for (int i=0; i<array2d.GetLength(0);i++)
     }
 Console.WriteLine();
 }
-if (z>=16)
+if (z>=m*k)
 Console.Write("Такого числа в массиве нет");
